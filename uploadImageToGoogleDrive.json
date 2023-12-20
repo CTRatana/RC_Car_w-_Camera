@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "global-repeater-408315",
+  "private_key_id": "49e00b9a24562d0deff0e66d64936c26222ca64a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDWjPJXF06pNij7\nnCzNR5WU7uC6JkbYPDykFUhYivC9+g+WMh0sa1jFNPV0K5AJ+qfdjm8Ac2af+URV\nEbo4dfs9hzgfEwLd6Wahz6qWePiwmqX+c/0E7mBhh1lPcrV/pdaxU//WuneOgmj8\nFv/O26p0WIOz69PAJpZoSsfK0GlNKZYIDd9dL34+PXUt9BfbFaIuCne5GqJhwaG4\nCX2gxH0xUFe7CuYpCUro5RpRQo1y7b2vw2GPglmty6d0Pcviyh8KNsU7QMDvvStD\nazu9OzdBb/2MSCEo93Xiac9dTMFuCXP7ycx5FOKmycxjFxLRXGfGTK5llv1HOX1y\nvjveXdLrAgMBAAECggEARdBgbTl+1a3zgQhNRdEU2f0vMDOTWvqi6uun+nPfqZns\np32QI6ucm7NDabVhLfYb2IroENf8XXLhquLVW1j804UkHGx1wtsXk/C8vDEKD4GL\nITUB8LBWuXWu+JzFdY9zwIkqV2eezscdvWYIgHnXSfuhg5Lp+P01dSNcRuExWrNk\nf+ySrCfQiUMf6kzJChvL5g24dLlx6ZEymoKFwb5Twm2490nN1PYmm5HhgxJID4as\nGLE0uDTigkydS2COnHmZiamwzE3BBdyqtMARDHyQrNk6n9YGJwvO5ezZ878r0aIt\nrSQi/NGekmysa3F/JdWI1SLeecCcV/LwLzGaOksBUQKBgQDs/mVsMP1faEhHnM0M\nhh+ezzLnAAF11mL5zcidnU9FPAVSIDFdhDpQp/cPnSSaXE/Yo3eIxs+L6QT8sp2U\neBqpr5rNnjvrnXE3+dagu2tHo/hrjuDp3WSjOxcGXEXs599DpLVrsHz1OIeg4eyX\njotKNE0VdG2Kwb6J5KqUtQ+KsQKBgQDnwcfeyhcEqMPkSwIjffVANGGLO0+zz1fo\nSs2o2BQ1/5ZI6E+aB2s+fXNA9URzvezoALPP4j4ZsDYEzrl0tHGlxs1fMYZYTNgq\nwTmjdSGYEvF/1qIXfRqr4fAaupVVbgSZbEN84WMlOHzflM5gZzZH2Qg3GsrKm+nD\nMZLH1SVmWwKBgFLbipgt9JfjvMmUz7feOLXsWS6cOOZ7AvW1dbttYWaiWnXhHYFF\nlqHWZ7GEzmRNe/kRBdzDLZML8BttU1yyNRg4dhYHiYmR7SCV7+0YOaS9dkAcnxQE\nvIe5RA6MOkJeuxdKQceZ18ZgckLUWkSOqLJT4NNsdlP58uUBFoaRWxKxAoGAKKR2\nDZ75HGsQN2fkDx9WtBS7inQzTQAulWEQ4exK1xFkZJLA6u0kJIhRfvHEOFv1QNZm\nsi0l4NFjF8K9CTdfuse7WldQDQok2pKaLg0rgATKbzXPpTjeRYhQ2A8igyHREqrG\nxw6rmWpnk7n/2y4eeckYxLkhGRjwjLeT2xGJBoMCgYBm6uz8u+Qjyi0zJeCVKJnF\nJOodmqB6EzLQabhrgsdsJvZr01OZTSrLFJLdDcXGUlbxAoDBibVGVWzau+tJlLm2\n1HEeAvV93AHa9qJ57DlHbflj+00PwCl3Z2hUWaeHyNglUK3Ywt91YyM8mqiKiPCl\nKUavgX9yY3rXby0rKiqztQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "raspberry-pi@global-repeater-408315.iam.gserviceaccount.com",
+  "client_id": "118164958946825085363",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/raspberry-pi%40global-repeater-408315.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
